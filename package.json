@@ -2,15 +2,15 @@
   "name": "egg_study",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "egg-bin dev"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "egg": "^2.29.3"
+    "egg": "^2.29.3",
+    "egg-view-nunjucks": "^2.3.0"
   },
   "devDependencies": {
     "egg-bin": "^4.15.0"
