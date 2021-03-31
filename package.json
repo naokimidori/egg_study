@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "egg": "^2.29.3",
-    "egg-view-nunjucks": "^2.3.0"
+    "egg-view-nunjucks": "^2.3.0",
+    "moment": "^2.29.1"
   },
   "devDependencies": {
     "egg-bin": "^4.15.0"
